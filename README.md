@@ -1,11 +1,10 @@
--👋 Hi! I'm Thai Minh, a CS student specializing in Artificial Intelligence. 
+👋 Hello! I'm Thai Minh, a passionate Computer Science student diving deep into the fascinating world of Artificial Intelligence.
 
--✨I love working on projects that involve Deep Learning and real-time object detection, and I'm particularly interested in applying AI to fields like sports analytics and emotion recognition.
+✨ I thrive on the challenge of tackling projects that harness the power of Deep Learning and real-time object detection.
 
--🌱 Currently, I'm exploring about Computer Vision, especially in CNN models (ResNet, MobileNet, EfficientNet,..) YOLO model (YOLOv8, YOLOv10), U-Net, GANs,... I'm always excited to learn more and collaborate on impactful AI projects.
+🌱 Currently, I'm on an exciting journey exploring the realms of Computer Vision. From mastering CNN architectures like ResNet, MobileNet, and EfficientNet to delving into cutting-edge YOLO models (YOLOv8 and YOLOv10), as well as U-Net and GANs, I'm committed to pushing the boundaries of what's possible with AI. The thrill of learning and collaborating on groundbreaking projects fuels my passion every day.
 
--📫 Let’s connect and bring new AI ideas to life!
-
+📫 Let’s connect! Together, we can bring innovative AI ideas to life and explore the endless possibilities that await us in this dynamic field!
 <!---
 MinPr0ba1/MinPr0ba1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
