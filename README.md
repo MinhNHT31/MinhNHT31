@@ -4,7 +4,7 @@ I am a Computer Science student immersed in the exciting world of Artificial Int
 
 ## 🚀 Interests
 
-I thrive on the challenge of tackling projects that harness the power of Deep Learning and real-time object detection.
+I thrive on the challenge of tackling projects that harness the power of Deep Learning
 
 ### 🌱 Currently, I’m exploring a variety of AI domains, including:
 
