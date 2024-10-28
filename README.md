@@ -2,7 +2,7 @@
 
 -✨I love working on projects that involve Deep Learning and real-time object detection, and I'm particularly interested in applying AI to fields like sports analytics and emotion recognition.
 
--🌱 Currently, I'm exploring about Computer Vision, especially in CNN models(ResNet, MobileNet, EfficientNet,..) YOLO model, U-Net, GANs,... I'm always excited to learn more and collaborate on impactful AI projects.
+-🌱 Currently, I'm exploring about Computer Vision, especially in CNN models (ResNet, MobileNet, EfficientNet,..) YOLO model (YOLOv8, YOLOv10), U-Net, GANs,... I'm always excited to learn more and collaborate on impactful AI projects.
 
 -📫 Let’s connect and bring new AI ideas to life!
 
