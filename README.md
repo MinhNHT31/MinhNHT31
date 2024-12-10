@@ -9,7 +9,7 @@ I thrive on the challenge of tackling projects that harness the power of Deep Le
 ### 🌱 Currently, I’m exploring a variety of AI domains, including:
 
 - **Computer Vision**:
-  - Mastering CNN architectures like ResNet, MobileNet, and EfficientNet
+  - CNN architectures like ResNet, MobileNet, and EfficientNet
   - Delving into cutting-edge YOLO models (YOLOv8 and YOLOv10)
   - Utilizing U-Net and GANs
 - **Recurrent Neural Networks (RNNs)** and **Transformers** to enhance win rates in trading
