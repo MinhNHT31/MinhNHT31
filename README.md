@@ -10,7 +10,7 @@ I thrive on the challenge of tackling projects that harness the power of Deep Le
 
 - **Computer Vision**:
   - CNN architectures like ResNet, MobileNet, and EfficientNet
-  - Delving into cutting-edge YOLO models (YOLOv8 and YOLOv10)
+  - Delving into cutting-edge YOLO models
   - Utilizing U-Net and GANs
 - **Recurrent Neural Networks (RNNs)** and **Transformers** to enhance win rates in trading
 
